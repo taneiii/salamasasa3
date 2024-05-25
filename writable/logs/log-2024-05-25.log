@@ -1,0 +1,31 @@
+INFO - 2024-05-25 08:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-25 08:36:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-25 08:45:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-25 08:47:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-25 08:47:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-25 09:11:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-25 09:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-25 09:11:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-25 09:12:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-25 09:12:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-25 09:12:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-25 09:12:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-25 09:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-25 09:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-25 09:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-25 09:13:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-25 09:13:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-25 09:15:05 --> ParseError: Unmatched '}'
+[Method: GET, Route: auth]
+in APPPATH\Controllers\Auth.php on line 128.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\app\\Controllers\\Auth.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Auth')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Auth')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Auth', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\public\\index.php')
+INFO - 2024-05-25 09:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

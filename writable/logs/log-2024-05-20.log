@@ -1,0 +1,203 @@
+CRITICAL - 2024-05-20 17:31:23 --> ParseError: syntax error, unexpected identifier "string", expecting ";" or "{"
+[Method: GET, Route: products]
+in APPPATH\Controllers\ProductController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\app\\Controllers\\ProductController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\ProductController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\public\\index.php')
+CRITICAL - 2024-05-20 17:31:36 --> ParseError: syntax error, unexpected identifier "string", expecting ";" or "{"
+[Method: GET, Route: products]
+in APPPATH\Controllers\ProductController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\app\\Controllers\\ProductController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\ProductController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\public\\index.php')
+CRITICAL - 2024-05-20 17:33:07 --> ParseError: syntax error, unexpected identifier "string", expecting ";" or "{"
+[Method: GET, Route: products]
+in APPPATH\Controllers\ProductController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\app\\Controllers\\ProductController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\ProductController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\public\\index.php')
+CRITICAL - 2024-05-20 17:33:08 --> ParseError: syntax error, unexpected identifier "string", expecting ";" or "{"
+[Method: GET, Route: products]
+in APPPATH\Controllers\ProductController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\app\\Controllers\\ProductController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\ProductController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\public\\index.php')
+CRITICAL - 2024-05-20 17:33:08 --> ParseError: syntax error, unexpected identifier "string", expecting ";" or "{"
+[Method: GET, Route: products]
+in APPPATH\Controllers\ProductController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\app\\Controllers\\ProductController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\ProductController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\public\\index.php')
+CRITICAL - 2024-05-20 17:36:59 --> ParseError: syntax error, unexpected identifier "string", expecting ";" or "{"
+[Method: GET, Route: products]
+in APPPATH\Controllers\ProductController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\app\\Controllers\\ProductController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\ProductController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\public\\index.php')
+CRITICAL - 2024-05-20 17:55:00 --> ParseError: syntax error, unexpected token "}", expecting ";"
+[Method: GET, Route: users/profile]
+in APPPATH\Config\Routes.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\public\\index.php')
+CRITICAL - 2024-05-20 18:12:46 --> ErrorException: Undefined variable $prod_list
+[Method: GET, Route: products/goodpum]
+in APPPATH\Views\frontend\product.php on line 12.
+ 1 APPPATH\Views\frontend\product.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prod_list', 'C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\app\\Views\\frontend\\product.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\app\\Views\\frontend\\product.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('frontend/product', [], true)
+ 5 APPPATH\Controllers\ProductController.php(17): view('frontend/product', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProductController->find('goodpum')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\public\\index.php')
+CRITICAL - 2024-05-20 18:13:15 --> ErrorException: Undefined variable $prod_list
+[Method: GET, Route: products/goodpum]
+in APPPATH\Views\frontend\product.php on line 12.
+ 1 APPPATH\Views\frontend\product.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prod_list', 'C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\app\\Views\\frontend\\product.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\app\\Views\\frontend\\product.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('frontend/product', [], true)
+ 5 APPPATH\Controllers\ProductController.php(17): view('frontend/product', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProductController->find('goodpum')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\public\\index.php')
+CRITICAL - 2024-05-20 18:14:00 --> ErrorException: Undefined variable $prod_list
+[Method: GET, Route: products/goodpum]
+in APPPATH\Views\frontend\product.php on line 13.
+ 1 APPPATH\Views\frontend\product.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prod_list', 'C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\app\\Views\\frontend\\product.php', 13)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\app\\Views\\frontend\\product.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('frontend/product', [], true)
+ 5 APPPATH\Controllers\ProductController.php(17): view('frontend/product', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProductController->find('goodpum')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\public\\index.php')
+CRITICAL - 2024-05-20 20:10:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/fontend.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/fontend.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/fontend.php', [], true)
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(9): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\public\\index.php')
+CRITICAL - 2024-05-20 21:08:51 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/frontend.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/frontend.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/frontend.php', [], true)
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(9): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\public\\index.php')
+CRITICAL - 2024-05-20 21:09:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout\frontend.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout\\frontend.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout\\frontend.php', [], true)
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(9): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\public\\index.php')
+CRITICAL - 2024-05-20 21:09:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "frontend.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('frontend.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('frontend.php', [], true)
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(9): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\public\\index.php')
+CRITICAL - 2024-05-20 21:10:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout\frontend.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout\\frontend.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout\\frontend.php', [], true)
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(9): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\codeigniter\\codeigniter4\\codeigniter4-framework-9b2cd73\\public\\index.php')
