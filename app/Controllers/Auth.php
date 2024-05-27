@@ -124,7 +124,12 @@ class Auth extends Controller
                } 
             }
          }
-       
+       function logout(){
+        if(session()->has('loggedPatient')){
+            session()->remove('loggedPatient');
+            return redirect()->to('/auth?access=out')->with('fail', 'You are logged out!');
+        }
+       }
      }
 
 

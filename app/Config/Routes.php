@@ -12,3 +12,6 @@ $routes->post('/auth/save', 'Auth::save');
 $routes->get('/register', 'Auth::register');
 $routes->get('/register', 'Auth::register');
 $routes->post('/auth/check','Auth::check');
+$routes->get('/dashboard', 'Dashboard::index');
+$routes->get('//auth/logout','Auth::logout');
+
