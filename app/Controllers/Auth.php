@@ -2,7 +2,6 @@
 
 namespace App\Controllers;
 use CodeIgniter\Controller;
-use App\Libraries\Hash;
 class Auth extends Controller
 {
     public function __construct(){
@@ -69,11 +68,11 @@ class Auth extends Controller
             $values = [
                 'name'=> $name,
                 'email'=>$email,
-                'password'=>Hash::make($password),
+                'password'=>$password,
             ];
 
-            $PatientsModel = new \App\Models\PatientsModel();
-            $query = $PatientsModel->insert($values);
+            $patientsModel = new \App\Models\PatientsModel();
+            $query = $patientsModel->insert($values);
             if(!$query){
                 return redirect()->back()->with('fail', 'Something went wrong');
                 //return redirect()->to('register')->with('fail', 'Something went wrong')
@@ -106,26 +105,28 @@ class Auth extends Controller
                 ]);
 
             if(!$validation){
-                return view ('auth/login',['validation'=>$this->validator]);
-            }else{
-                
+                return view ('auth/login',['validation'=> $this->validator]); 
+            }else {
+               
                 $email = $this->request->getPost('email');
                 $password = $this->request->getPost('password');
-                $PatientsModel = new \App\Models\PatientsModel();
-                $patient_info = $PatientsModel-> where('email', $email)->first();
-                $check_password = Hash :: check($password, $patient_info['password']);
-            
-               if(!$check_password) {
+                $patientsModel = new \App\Models\PatientsModel();
+                $patient_info = $patientsModel-> where('email', $email)->first();
+                if ($password != $patient_info['password']) 
+                {
                     session()->setFlashdata('fail', 'Incorrect password');
                     return redirect()->to('/auth')->withInput();
-               }else{
-                $patient_id = $patient_info ['patientID'];
-                session ()->set('loggedPatient', $patient_id);
-                return redirect()->to('/dashboard');
-               }
+                }else{
+                    $patient_id = $patient_info['patientID'];
+                    session()->set('loggedPatient', $patient_id);
+                    return redirect()->to('/dashboard');
+                 
+               } 
             }
-        }
-    }
+         }
+       
+     }
+
 
                 
             

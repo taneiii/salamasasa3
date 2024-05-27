@@ -25,9 +25,8 @@
                 </div>
                 <div class="form-group">
                     <label for="">Password</label>
-                    <input type="text" class="form-control" name="password" placeholder="Enter password">
+                    <input type="password" class="form-control" name="password" placeholder="Enter password">
                     <span class="text-danger"><?= isset($validation) ? display_error($validation, 'password') : '' ?></span>
-
                 </div>
                 <div class="form-group">
                     <button class="btn btn-primary btn-block" type="submit"> Log In</button>
